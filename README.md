@@ -6,3 +6,5 @@
 - Mariano Miranda Sanchez
 - Diana Laura Olivas Marin
 - Cynthia Vidal Ovando
+- Miguel Ángel Sánchez Piña
+- Juan José Tec Tun
