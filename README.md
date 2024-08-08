@@ -2,7 +2,7 @@
 
 # Team Members
 - Mauricio Pacheco Lizama
-- Christian Can Montero
+- Christian Javier Can Montero
 - Mariano Miranda Sanchez
 - Diana Laura Olivas Marin
 - Cynthia Vidal Ovando
